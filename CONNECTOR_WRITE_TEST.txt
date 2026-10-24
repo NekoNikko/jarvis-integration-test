@@ -1,0 +1,5 @@
+GitHub connector write/read verification
+
+Purpose: confirm that the connected GitHub integration can create and read back a harmless test file.
+Scope: NekoNikko/jarvis-integration-test only.
+No secrets or production source code are included.
